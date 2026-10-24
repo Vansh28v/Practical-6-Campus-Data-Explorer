@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "title": "Web Development Workshop",
+        "category": "Workshop",
+        "date": "2026-11-05",
+        "time": "9:00 AM",
+        "location": "Computer Lab 2",
+        "description": "Hands-on HTML, CSS, and JavaScript practice."
+    },
+    {
+        "id": 2,
+        "title": "Resume Review Desk",
+        "category": "Career",
+        "date": "2026-11-07",
+        "time": "10:00 AM",
+        "location": "Placement Cell",
+        "description": "Get feedback on resume structure and project descriptions."
+    },
+    {
+        "id": 3,
+        "title": "Campus Clean-up Drive",
+        "category": "Community",
+        "date": "2026-11-09",
+        "time": "11:00 AM",
+        "location": "Main Gate",
+        "description": "Join volunteers for a campus clean-up activity."
+    },
+    {
+        "id": 4,
+        "title": "Introduction to Git",
+        "category": "Workshop",
+        "date": "2026-11-11",
+        "time": "12:00 AM",
+        "location": "Seminar Room A",
+        "description": "Learn repositories, commits, branches, and collaboration."
+    },
+    {
+        "id": 5,
+        "title": "Student Project Showcase",
+        "category": "Academic",
+        "date": "2026-11-13",
+        "time": "13:00 AM",
+        "location": "Central Hall",
+        "description": "Students present software and hardware projects."
+    },
+    {
+        "id": 6,
+        "title": "Photography Walk",
+        "category": "Community",
+        "date": "2026-11-15",
+        "time": "14:00 AM",
+        "location": "Library Courtyard",
+        "description": "A campus photo walk for beginners."
+    },
+    {
+        "id": 7,
+        "title": "Internship Q&A",
+        "category": "Career",
+        "date": "2026-11-17",
+        "time": "15:00 AM",
+        "location": "Room B-104",
+        "description": "Ask about applications, portfolios, and interviews."
+    },
+    {
+        "id": 8,
+        "title": "Python Practice Hour",
+        "category": "Academic",
+        "date": "2026-11-19",
+        "time": "16:00 AM",
+        "location": "Computer Lab 1",
+        "description": "Solve short Python exercises with peer support."
+    },
+    {
+        "id": 9,
+        "title": "Design Basics Meetup",
+        "category": "Workshop",
+        "date": "2026-11-21",
+        "time": "9:00 AM",
+        "location": "Studio 3",
+        "description": "Discuss spacing, contrast, and typography."
+    },
+    {
+        "id": 10,
+        "title": "Blood Donation Awareness",
+        "category": "Community",
+        "date": "2026-11-23",
+        "time": "10:00 AM",
+        "location": "Student Centre",
+        "description": "Learn about eligibility and donation drives."
+    },
+    {
+        "id": 11,
+        "title": "Mock Interview Morning",
+        "category": "Career",
+        "date": "2026-11-25",
+        "time": "11:00 AM",
+        "location": "Placement Cell",
+        "description": "Practise interview questions and get feedback."
+    },
+    {
+        "id": 12,
+        "title": "Database Fundamentals",
+        "category": "Academic",
+        "date": "2026-11-27",
+        "time": "12:00 AM",
+        "location": "Seminar Room B",
+        "description": "Revise tables, keys, relationships, and SQL."
+    },
+    {
+        "id": 13,
+        "title": "Open-source Contribution Hour",
+        "category": "Workshop",
+        "date": "2026-11-29",
+        "time": "13:00 AM",
+        "location": "Innovation Room",
+        "description": "Find beginner-friendly open-source issues."
+    },
+    {
+        "id": 14,
+        "title": "Student Music Evening",
+        "category": "Community",
+        "date": "2026-12-02",
+        "time": "14:00 AM",
+        "location": "Amphitheatre",
+        "description": "An informal evening of student performances."
+    },
+    {
+        "id": 15,
+        "title": "Career Planning Session",
+        "category": "Career",
+        "date": "2026-12-04",
+        "time": "15:00 AM",
+        "location": "Seminar Room A",
+        "description": "Set learning goals and plan internship preparation."
+    }
+]

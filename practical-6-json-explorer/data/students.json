@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav Shah",
+        "course": "Computer Engineering",
+        "year": 2,
+        "city": "Vadodara",
+        "email": "aarav.shah@example.com",
+        "interests": [
+            "Web development",
+            "Open source"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Diya Patel",
+        "course": "Information Technology",
+        "year": 1,
+        "city": "Anand",
+        "email": "diya.patel@example.com",
+        "interests": [
+            "UI design",
+            "Photography"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Rohan Mehta",
+        "course": "Computer Engineering",
+        "year": 3,
+        "city": "Ahmedabad",
+        "email": "rohan.mehta@example.com",
+        "interests": [
+            "Python",
+            "AI"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Anaya Desai",
+        "course": "Electronics",
+        "year": 2,
+        "city": "Nadiad",
+        "email": "anaya.desai@example.com",
+        "interests": [
+            "Robotics",
+            "IoT"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Krish Trivedi",
+        "course": "Information Technology",
+        "year": 4,
+        "city": "Surat",
+        "email": "krish.trivedi@example.com",
+        "interests": [
+            "Cybersecurity",
+            "Linux"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Mira Joshi",
+        "course": "Computer Engineering",
+        "year": 1,
+        "city": "Vadodara",
+        "email": "mira.joshi@example.com",
+        "interests": [
+            "JavaScript",
+            "Design"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Ishaan Parmar",
+        "course": "Mechanical Engineering",
+        "year": 3,
+        "city": "Rajkot",
+        "email": "ishaan.parmar@example.com",
+        "interests": [
+            "CAD",
+            "Automation"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Sara Khan",
+        "course": "Information Technology",
+        "year": 2,
+        "city": "Anand",
+        "email": "sara.khan@example.com",
+        "interests": [
+            "Databases",
+            "Web development"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Dev Patel",
+        "course": "Computer Engineering",
+        "year": 4,
+        "city": "Bhavnagar",
+        "email": "dev.patel@example.com",
+        "interests": [
+            "Machine learning",
+            "Python"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Kavya Shah",
+        "course": "Civil Engineering",
+        "year": 1,
+        "city": "Vadodara",
+        "email": "kavya.shah@example.com",
+        "interests": [
+            "Sustainability",
+            "Design"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Arjun Rao",
+        "course": "Electronics",
+        "year": 3,
+        "city": "Anand",
+        "email": "arjun.rao@example.com",
+        "interests": [
+            "Embedded systems",
+            "IoT"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Nisha Vyas",
+        "course": "Computer Engineering",
+        "year": 2,
+        "city": "Surat",
+        "email": "nisha.vyas@example.com",
+        "interests": [
+            "Algorithms",
+            "C++"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Yash Gandhi",
+        "course": "Information Technology",
+        "year": 1,
+        "city": "Ahmedabad",
+        "email": "yash.gandhi@example.com",
+        "interests": [
+            "Cloud",
+            "Linux"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Pooja Soni",
+        "course": "Mechanical Engineering",
+        "year": 4,
+        "city": "Rajkot",
+        "email": "pooja.soni@example.com",
+        "interests": [
+            "Manufacturing",
+            "Robotics"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Neil Desai",
+        "course": "Civil Engineering",
+        "year": 2,
+        "city": "Nadiad",
+        "email": "neil.desai@example.com",
+        "interests": [
+            "Planning",
+            "Sustainability"
+        ]
+    }
+]

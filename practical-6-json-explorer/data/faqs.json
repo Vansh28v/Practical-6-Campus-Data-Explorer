@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "question": "How do I reset my portal password?",
+        "category": "Accounts",
+        "answer": "Use the password reset option and follow instructions sent to your registered email."
+    },
+    {
+        "id": 2,
+        "question": "Where can I find the academic calendar?",
+        "category": "Academics",
+        "answer": "Check the student portal under Notices or Academic Resources."
+    },
+    {
+        "id": 3,
+        "question": "How do I contact the placement cell?",
+        "category": "Career",
+        "answer": "Check the placement section of the student portal for current contact details."
+    },
+    {
+        "id": 4,
+        "question": "Can I update my contact information?",
+        "category": "Accounts",
+        "answer": "Contact student administration or use profile settings if available."
+    },
+    {
+        "id": 5,
+        "question": "Where are workshop announcements posted?",
+        "category": "Events",
+        "answer": "Check official notices and the student portal."
+    },
+    {
+        "id": 6,
+        "question": "How can I join a student club?",
+        "category": "Campus Life",
+        "answer": "Look for club announcements or contact the club coordinator."
+    },
+    {
+        "id": 7,
+        "question": "Where can I get help with a lab assignment?",
+        "category": "Academics",
+        "answer": "Ask your instructor or lab assistant during support hours."
+    },
+    {
+        "id": 8,
+        "question": "How do I submit a project repository?",
+        "category": "Academics",
+        "answer": "Follow your instructor's instructions and share the repository link."
+    },
+    {
+        "id": 9,
+        "question": "Who should I contact about attendance records?",
+        "category": "Academics",
+        "answer": "Contact the relevant faculty member or academic office."
+    },
+    {
+        "id": 10,
+        "question": "Where can I find internship resources?",
+        "category": "Career",
+        "answer": "Check placement cell announcements and approved career resources."
+    },
+    {
+        "id": 11,
+        "question": "Can I register for more than one event?",
+        "category": "Events",
+        "answer": "Read each event notice for its registration rules."
+    },
+    {
+        "id": 12,
+        "question": "How do I access campus Wi-Fi?",
+        "category": "Accounts",
+        "answer": "Use the network details provided by campus IT support."
+    },
+    {
+        "id": 13,
+        "question": "Where can I find library timings?",
+        "category": "Campus Life",
+        "answer": "Check the library notice board or official campus information page."
+    },
+    {
+        "id": 14,
+        "question": "How can I request a bonafide certificate?",
+        "category": "Administration",
+        "answer": "Contact student administration for the application process."
+    },
+    {
+        "id": 15,
+        "question": "What if a portal page is not loading?",
+        "category": "Accounts",
+        "answer": "Refresh, check your connection, try another browser, or contact IT support."
+    }
+]

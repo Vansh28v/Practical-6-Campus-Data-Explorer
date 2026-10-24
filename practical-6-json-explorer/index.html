@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Practical 6 - Campus Data Explorer</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="container header-content">
+    <p class="site-label">WEB DEVELOPMENT · PRACTICAL 6</p>
+    <h1>Campus Data Explorer</h1>
+    <p class="header-description">Browse sample campus events, student profiles, and common questions.</p>
+  </div>
+</header>
+<main class="container main-content">
+  <section class="intro-row">
+    <div><h2>Explore campus information</h2><p>Records are loaded from local JSON files using the Fetch API. Search, filter, sort, and paginate the results.</p></div>
+    <span class="data-note">Sample data · 15 records per section</span>
+  </section>
+  <nav class="tabs" aria-label="Data sections">
+    <button class="tab active" data-view="events" aria-selected="true">Events</button>
+    <button class="tab" data-view="students" aria-selected="false">Students</button>
+    <button class="tab" data-view="faqs" aria-selected="false">FAQs</button>
+  </nav>
+  <section class="data-panel" aria-labelledby="sectionTitle">
+    <div class="panel-top"><div><h2 id="sectionTitle">Campus events</h2><p id="sectionDescription">Upcoming sessions and activities.</p></div><span id="recordCount">Loading…</span></div>
+    <div class="controls">
+      <div><label for="searchInput">Search</label><input id="searchInput" type="search" placeholder="Search records…" autocomplete="off"></div>
+      <div><label for="filterSelect">Filter by</label><select id="filterSelect"><option value="all">All categories</option></select></div>
+      <div><label for="sortSelect">Sort by</label><select id="sortSelect"><option value="default">Default order</option><option value="az">Name / title (A–Z)</option><option value="za">Name / title (Z–A)</option><option value="dateAsc">Date / year (ascending)</option><option value="dateDesc">Date / year (descending)</option></select></div>
+    </div>
+    <p id="statusMessage" class="status-message" role="status" aria-live="polite">Loading data…</p>
+    <div id="results" class="results-grid"></div>
+    <div class="pagination"><p id="pageInfo">Page 1</p><div class="pagination-buttons"><button id="previousPage" class="button" disabled>Previous</button><button id="nextPage" class="button" disabled>Next</button></div></div>
+  </section>
+  <section class="implementation-note"><h2>What this practical demonstrates</h2><p><code>fetch()</code> loads JSON, <code>map()</code> renders records, <code>filter()</code> searches and filters, <code>sort()</code> orders results, and <code>slice()</code> selects the current page. Loading and error messages are shown in the results area.</p></section>
+</main>
+<footer class="site-footer"><div class="container footer-content"><span>Practical 6 · Fetch API and JSON</span><span>HTML · CSS · JavaScript modules</span></div></footer>
+</body>
+</html>
